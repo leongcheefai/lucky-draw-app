@@ -1,0 +1,27 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.winning-number-card {
+    width: 400px !important;
+    .header {
+        text-align: center;
+    }
+    .margin-bottom-05em {
+        margin-bottom: 0.5em !important;
+    }
+    .btn-more {
+        margin-bottom: 1em !important;
+    }
+}
+.margin-btm-1em {
+    margin-bottom: 1em !important;
+}
+.lucky-draw-card {
+    width: 400px !important;
+}
